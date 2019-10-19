@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gregasdg."
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Haloween clicker</name>
+
+  <description>
+      A GAME.
+  </description>
+
+  <author href="none" email="none">
+      Gr3gry
+  </author>
+
+  <icon src="icon.pgn" />
+
+</widget>
